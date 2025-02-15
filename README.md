@@ -98,7 +98,7 @@ This project consists of two programs:
 ## Flow Chart
 
 For a detailed flowchart of the algorithm, refer to the flowchart image below:  
-[Flowchart Image](https://your-image-url.com/flowchart.png)  
+![flow-chart.svg](<https://media-hosting.imagekit.io//2260ef8651144435/flow-chart.svg?Expires=1834232175&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=VYCGNvK3lVlnjAyYNIkoPB6nqHUDBA49pMxE9~3TtaKNDTMdF3nRas3pM~U9W6m1AP6v4pNeKnQG5s7e6JofeCRxH6W16P19m0T-SX5-9YkL~QGEMMAUyR0fVI3xgESdnRbqAXrknfQzcYem3LsXYTUZqd7o5mSuk1oM6WL0Bxn42OiKvaFso8nGMSkgS5AVprsRUMU4k7KQ9XMNv1lZi~b-jFIVMk2oWzqaJ9sqIAb9XUsDh8quz6a9dDPmodwu0es-jhD82tw~KRYQhbB-je-Uysz1W7bJ~ZXdAV~LqOqHAXuiqkoF9vGtSlY6dBt~5Yc5bhngTPUieH-4ZwvMdQ__>)
 *Tip: Open the image in a new tab to zoom in and explore it in detail.*
 
 ---
