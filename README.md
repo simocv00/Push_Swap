@@ -9,7 +9,6 @@ Push_Swap is a project that challenges you to sort a random list of integers usi
 - [Challenge](#challenge)
 - [The Project](#the-project)
 - [Pseudo Code](#pseudo-code)
-- [Flow Chart](#flow-chart)
 - [Visualizer](#visualizer)
 - [Checker](#checker)
 - [Resources](#resources)
@@ -93,13 +92,6 @@ This project consists of two programs:
 - Push all elements from stack **b** back to stack **a** while maintaining their sorted order.
 - Apply any final rotations to bring the smallest number to the top of stack **a**.
 
----
-
-## Flow Chart
-
-For a detailed flowchart of the algorithm, refer to the flowchart image below:  
-![flow-chart.svg](<https://media-hosting.imagekit.io//2260ef8651144435/flow-chart.svg?Expires=1834232175&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=VYCGNvK3lVlnjAyYNIkoPB6nqHUDBA49pMxE9~3TtaKNDTMdF3nRas3pM~U9W6m1AP6v4pNeKnQG5s7e6JofeCRxH6W16P19m0T-SX5-9YkL~QGEMMAUyR0fVI3xgESdnRbqAXrknfQzcYem3LsXYTUZqd7o5mSuk1oM6WL0Bxn42OiKvaFso8nGMSkgS5AVprsRUMU4k7KQ9XMNv1lZi~b-jFIVMk2oWzqaJ9sqIAb9XUsDh8quz6a9dDPmodwu0es-jhD82tw~KRYQhbB-je-Uysz1W7bJ~ZXdAV~LqOqHAXuiqkoF9vGtSlY6dBt~5Yc5bhngTPUieH-4ZwvMdQ__>)
-*Tip: Open the image in a new tab to zoom in and explore it in detail.*
 
 ---
 
