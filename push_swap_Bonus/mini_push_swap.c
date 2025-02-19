@@ -35,7 +35,7 @@ static int	process_tokens(char **all_tokens, t_list **stack_a)
 	return (0);
 }
 
-static void	just_mini(t_list **stack_a, t_list **stack_b, int *flag)
+static void	check_Processes(t_list **stack_a, t_list **stack_b, int *flag)
 {
 	char	*command;
 
@@ -55,7 +55,6 @@ static void	just_mini(t_list **stack_a, t_list **stack_b, int *flag)
 	}
 }
 
-/* دالة main مختصرة تحافظ على منطقك الأصلي */
 int	main(int ac, char **av)
 {
 	t_list	*stack_a;
@@ -73,7 +72,7 @@ int	main(int ac, char **av)
 		return (1);
 	if (process_tokens(all_tokens, &stack_a) == 1)
 		return (1);
-	just_mini(&stack_a, &stack_b, &flag);
+	check_Processes(&stack_a, &stack_b, &flag);
 	if ((is_sorted(stack_a) == 1 && flag == 0) && (ft_lstsize_(stack_b) == 0))
 		write(1, "OK\n", 3);
 	else if ((is_sorted(stack_a) == 0 && flag == 0)
