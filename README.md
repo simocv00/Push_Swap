@@ -104,8 +104,6 @@ A visualizer tool is available to graphically represent the sorting process. Thi
 1. Clone the repository containing the visualizer tool.
 2. Run the tool and provide the output of **push_swap** as input.
 
-*Include additional usage instructions for your specific visualizer tool if needed.*
-
 ---
 
 ## Checker
